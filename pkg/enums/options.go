@@ -1,13 +1,13 @@
 package enums
 
 const (
-	buyOption        = "buy"
-	fillOption       = "fill"
-	takeOption       = "take"
-	remainingOption  = "remaining"
-	exitOption       = "exit"
-	espressoOption   = "1"
-	latteOption      = "2"
-	cappuccinoOption = "3"
-	backOption       = "back"
+	BuyOption        = "buy"
+	FillOption       = "fill"
+	TakeOption       = "take"
+	RemainingOption  = "remaining"
+	ExitOption       = "exit"
+	EspressoOption   = "1"
+	LatteOption      = "2"
+	CappuccinoOption = "3"
+	BackOption       = "back"
 )
